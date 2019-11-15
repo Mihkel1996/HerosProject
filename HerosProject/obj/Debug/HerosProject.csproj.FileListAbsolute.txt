@@ -1,0 +1,14 @@
+C:\Users\opilane\Documents\Visual Studio 2017\Projects\TARpe18\HerosProject\HerosProject\bin\Debug\HerosProject.exe.config
+C:\Users\opilane\Documents\Visual Studio 2017\Projects\TARpe18\HerosProject\HerosProject\bin\Debug\HerosProject.exe
+C:\Users\opilane\Documents\Visual Studio 2017\Projects\TARpe18\HerosProject\HerosProject\bin\Debug\HerosProject.pdb
+C:\Users\opilane\Documents\Visual Studio 2017\Projects\TARpe18\HerosProject\HerosProject\obj\Debug\HerosProject.csprojAssemblyReference.cache
+C:\Users\opilane\Documents\Visual Studio 2017\Projects\TARpe18\HerosProject\HerosProject\obj\Debug\HerosProject.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Documents\Visual Studio 2017\Projects\TARpe18\HerosProject\HerosProject\obj\Debug\HerosProject.exe
+C:\Users\opilane\Documents\Visual Studio 2017\Projects\TARpe18\HerosProject\HerosProject\obj\Debug\HerosProject.pdb
+C:\Users\opilane\Downloads\HerosProject (1)\HerosProject\bin\Debug\HerosProject.exe.config
+C:\Users\opilane\Downloads\HerosProject (1)\HerosProject\bin\Debug\HerosProject.exe
+C:\Users\opilane\Downloads\HerosProject (1)\HerosProject\bin\Debug\HerosProject.pdb
+C:\Users\opilane\Downloads\HerosProject (1)\HerosProject\obj\Debug\HerosProject.csprojAssemblyReference.cache
+C:\Users\opilane\Downloads\HerosProject (1)\HerosProject\obj\Debug\HerosProject.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Downloads\HerosProject (1)\HerosProject\obj\Debug\HerosProject.exe
+C:\Users\opilane\Downloads\HerosProject (1)\HerosProject\obj\Debug\HerosProject.pdb
